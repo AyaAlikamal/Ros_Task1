@@ -1,0 +1,2 @@
+service_node
+-DCATKIN_DEVEL_PREFIX=/home/ayaali/Task1/devel -DCMAKE_INSTALL_PREFIX=/home/ayaali/Task1/install -G Unix Makefiles

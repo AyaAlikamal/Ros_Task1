@@ -1,0 +1,8 @@
+prefix=/home/ayaali/Task1/install
+
+Name: service_node
+Description: Description of service_node
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
